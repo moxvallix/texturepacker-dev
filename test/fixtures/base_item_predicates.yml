@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  base_item_override: one
+  key: MyString
+  value: MyString
+
+two:
+  base_item_override: two
+  key: MyString
+  value: MyString

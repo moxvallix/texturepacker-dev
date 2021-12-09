@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model_type: one
+  path: MyString
+
+two:
+  model_type: two
+  path: MyString
